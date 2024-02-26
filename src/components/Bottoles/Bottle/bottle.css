@@ -1,0 +1,9 @@
+.bootleCard{
+    border: 1px solid darkviolet;
+    margin-top: 16px;
+    padding: 4px 10px;
+}
+.bootleCard img{
+    width: 300px;
+
+}
